@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OVa8EdFXebn8gbL7ss+q+FJgTXMtFNU3+I6HucS05fI=",
+  "Source": "backend-shopping-dotnet",
+  "BasePath": "_content/backend-shopping-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-list > div {
+    flex: 1 1 calc(33.333% - 10px); /* 3 items per row */
+    margin: 5px;
+    box-sizing: border-box;
+  }
+  
