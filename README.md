@@ -1,4 +1,4 @@
-install :
+Installation :
  1. dotnet core 8
  2. node js
  3. sql server
