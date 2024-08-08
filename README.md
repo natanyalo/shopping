@@ -6,13 +6,19 @@ install :
 
 Running the Application
 
+// cd backend-shopping
+
 backend-shopping(nodejs+nestjs) :
 1. npm install
 2. npm run
-3. 
+
+// cd backend-shopping-dotnet
+
 backend-shopping-dotnet(dotnet ) :
 1. dotnet run
-   
+
+//cd front-shopping
+
 front-shopping(react) :
 1. npm intsall
 2. npm run
