@@ -7,7 +7,7 @@ install :
 Running the Application
 
 backend-shopping(nodejs+nestjs) :
-1. npm intsall
+1. npm install
 2. npm run
 3. 
 backend-shopping-dotnet(dotnet ) :
