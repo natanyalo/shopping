@@ -15,7 +15,8 @@ backend-shopping(nodejs+nestjs) :
 // cd backend-shopping-dotnet
 
 backend-shopping-dotnet(dotnet ) :
-1. dotnet run
+1. dotnet ef database update
+2. dotnet run
 
 //cd front-shopping
 
